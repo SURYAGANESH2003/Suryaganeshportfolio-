@@ -25,8 +25,8 @@ My resume includes a detailed view of my educational background, work experience
 [View Resume](link_to_resume.pdf)
 
 ## Contact
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourprofile](https://github.com/yourprofile)
+- **Email**: [your-email@example.com](mailto: mysurya.gan@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/suryaganesh-m-17aa26265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub**: https://github.com/SURYAGANESH2003/Suryaganeshportfolio-/edit/main/README.md
 
 Feel free to reach out if you’re interested in collaborating or have any questions about my work!
